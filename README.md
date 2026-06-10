@@ -1,5 +1,7 @@
 # Gesture-Controlled Breakout Game
 
+This was a small fun project I made in the summer of 2025.
+
 An AI-powered, gesture-controlled version of the classic Breakout game that allows players to interact entirely through hand movements captured by a webcam.
 
 The project combines computer vision, real-time gesture recognition, and facial emotion analysis to create an accessible gaming experience without requiring a keyboard, mouse, or game controller.
